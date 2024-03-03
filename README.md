@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**MochiThere/MochiThere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## ☁️ - About Me
+&emsp;&emsp;&emsp; _Quisiera ser una mosca ~_  
+&emsp;&ensp; _~ Para pararme en tu piel_
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌑 - Github Profile Sections
+
+🧠 I'm currently studying so... 
+
+💬 Don't Ask me about anything
+
+⚡️ Fun fact, i like to draw, a lot
+
+
+## 💫 - Skills
+Beg level Java, Processing, Python, CSS, HTML
+
