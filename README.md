@@ -1,7 +1,7 @@
 
 ## ☁️ - About Me
-&emsp;&emsp;&emsp; *Quisiera ser una mosca ~*  
-&emsp;&ensp; *~ Para pararme en tu piel*
+&emsp;&emsp;&emsp; * Quisiera ser una mosca ~ *  
+&emsp;&ensp; * ~ Para pararme en tu piel *  
 
 
 ## 🌑 - Github Profile Sections
