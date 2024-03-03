@@ -17,5 +17,5 @@
 Beg level Java, Processing, Python, CSS, HTML
 
 ## 💞 - Her
-🐍 [The serpent of Eden](https://github.com/mariaher05th)
+[🐍 The serpent of Eden](https://github.com/mariaher05th)
 
