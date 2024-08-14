@@ -14,8 +14,5 @@
 
 
 ## 💫 - Skills
-Beg level Java, Processing, Python, CSS, HTML
-
-## 💞 - Her
-[🐍 The serpent of Eden](https://github.com/mariaher05th)
+Beg level Java, Processing, Python, CSS, HTML, Vanilla JS
 
