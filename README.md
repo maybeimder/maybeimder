@@ -3,6 +3,7 @@
 &emsp;&emsp;&emsp; * Quisiera ser una mosca ~ *  
 &emsp;&ensp; * ~ Para pararme en tu piel *  
 
+![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
 
 ## 🌑 - Github Profile Sections
 
@@ -13,6 +14,4 @@
 ⚡️ Fun fact, i like to draw, a lot
 
 
-## 💫 - Skills
-Beg level Java, Processing, Python, CSS, HTML, Vanilla JS
 
