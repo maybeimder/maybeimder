@@ -1,14 +1,16 @@
 
-![Alt Text]([https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif](https://i.pinimg.com/originals/fd/6a/c5/fd6ac545d16ca010f68901f0bbabb75f.gif))
+![Alt Text](https://s6.ezgif.com/tmp/ezgif-6-62397f1015.gif)
 
-## ☁️ - About Me
+#
+# ☁️ - About Me
 &emsp;&emsp;&emsp; * Quisiera ser una mosca ~ *  
 &emsp;&ensp; * ~ Para pararme en tu piel *  
+
 
 ## 🌑 - Github Profile Sections
 
 🧠 I'm currently studying so... 
     Don't Ask me about anything
 
-
+#
 
