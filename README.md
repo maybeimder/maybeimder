@@ -1,16 +1,14 @@
+# 👋 Hello There!
 
-![Alt Text](https://s6.ezgif.com/tmp/ezgif-6-62397f1015.gif)
+## 🐊 Who am i?
+📌  I'm a software developer, and a student at Universidad del Norte in Colombia
+📌  I like to try *all* at least one time, currently learning Preact and NextJS
+✍️  In my free time, I draw... a lot.
+🕹️  Videogames and bass are my hobbies too.
 
-#
-# ☁️ - About Me
-&emsp;&emsp;&emsp; * Quisiera ser una mosca ~ *  
-&emsp;&ensp; * ~ Para pararme en tu piel *  
+💬  Feel free to ask me at any time.
+✉️  You can email me at jonhferreravila8@gmail.com.
 
-
-## 🌑 - Github Profile Sections
-
-🧠 I'm currently studying so... 
-    Don't Ask me about anything
-
-#
+## Languages and Tools
+<a href='https://github.com/shivamkapasia0' target="_blank"><img alt='Python' src='https://img.shields.io/badge/Python-100000?style=for-the-badge&logo=Python&logoColor=FEFEFF&labelColor=000000&color=000000'/></a>
 
